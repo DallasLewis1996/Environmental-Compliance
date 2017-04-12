@@ -1,0 +1,6 @@
+c:\users\dallas lewis\documents\visual studio 2017\Projects\Environmental Compliance\Environmental Compliance\bin\Debug\Environmental Compliance.exe.config
+c:\users\dallas lewis\documents\visual studio 2017\Projects\Environmental Compliance\Environmental Compliance\bin\Debug\Environmental Compliance.exe
+c:\users\dallas lewis\documents\visual studio 2017\Projects\Environmental Compliance\Environmental Compliance\bin\Debug\Environmental Compliance.pdb
+c:\users\dallas lewis\documents\visual studio 2017\Projects\Environmental Compliance\Environmental Compliance\obj\Debug\Environmental Compliance.csprojResolveAssemblyReference.cache
+c:\users\dallas lewis\documents\visual studio 2017\Projects\Environmental Compliance\Environmental Compliance\obj\Debug\Environmental Compliance.exe
+c:\users\dallas lewis\documents\visual studio 2017\Projects\Environmental Compliance\Environmental Compliance\obj\Debug\Environmental Compliance.pdb
